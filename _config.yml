@@ -8,14 +8,14 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 码猫Tikee
-tagline: Site Tagline
+title : 白色通路兵
+tagline: 白色通路兵
 author :
   name : Tikee
   email : gloomy1993@qq.com
   github : tikee2014
 #  twitter : username
-  feedburner : 码猫
+  feedburner : 白色通路兵
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
