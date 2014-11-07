@@ -3,6 +3,7 @@ layout: post
 category: test
 tags: [test]
 ---
+{% include JB/setup %}
 # test
 
 ```java
